@@ -8,6 +8,7 @@ body {
     background-color: #d9dcd6;
 }
 
+/*Changed div header to a simple header tag */
 header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -51,6 +52,7 @@ p {
     background-position: center;
 }
 
+/*Removed more div tags for the main and article tags */
 main {
     width: 75%;
     display: inline-block;
@@ -95,6 +97,22 @@ article {
     color: #ffffff;
 }
 
+.benefit-lead {
+    margin-bottom: 32px;
+    color: #ffffff;
+}
+
+.benefit-brand {
+    margin-bottom: 32px;
+    color: #ffffff;
+}
+
+.benefit-cost {
+    margin-bottom: 32px;
+    color: #ffffff;
+}
+
+/*Created separate header tags for more consolidation*/
 h1 {
     display: inline-block;
     font-size: 48px;
@@ -110,6 +128,7 @@ h3 {
     text-align: center;
 }
 
+/*Gave each image a different class name*/
 .img1 {
     float: left;
     margin-right: 25px;
@@ -127,21 +146,6 @@ h3 {
     float: left;
     margin-right: 25px;
     max-height: 200px;
-}
-
-.benefit-lead {
-    margin-bottom: 32px;
-    color: #ffffff;
-}
-
-.benefit-brand {
-    margin-bottom: 32px;
-    color: #ffffff;
-}
-
-.benefit-cost {
-    margin-bottom: 32px;
-    color: #ffffff;
 }
 
 .img4 {
@@ -162,6 +166,7 @@ h3 {
     max-width: 150px;
 }
 
+/*Added footer tag instead of div*/
 footer {
     padding: 30px;
     clear: both;
