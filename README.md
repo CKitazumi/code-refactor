@@ -7,3 +7,6 @@ In this first assignment, I cleaned up the given index.html and the style.css fi
 I put forth my best effort structuring the code in the index and the style sheet to look cleaner and consolidate the code to the best of my abilities, while keeping the same function for the webpage. 
 
 Finally, I added descriptive title to my project and added alt tags to all images. 
+
+**Screenshot of my functioning webpage included**
+ [Screenshot](./assets/images/Screenshot.png)
